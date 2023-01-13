@@ -1,0 +1,16 @@
+# Libraries
+*.lvlibp
+*.lvlib
+*.llb
+
+# Shared objects
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
